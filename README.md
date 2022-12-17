@@ -1,1 +1,1 @@
-# Pyton-project
+# Автотесты Python + Pytest + Requests 
